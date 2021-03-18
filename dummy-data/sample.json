@@ -1,0 +1,35 @@
+{
+    "last_udated": "date",
+    "data": [
+        {
+            "team": "team one",
+            "value_1": 1,
+            "value_2": 2
+        },
+        {
+            "team": "team two",
+            "value_1": 1,
+            "value_2": 2
+        },
+        {
+            "team": "team 3",
+            "value_1": 1,
+            "value_2": 2
+        },
+        {
+            "team": "team 4",
+            "value_1": 1,
+            "value_2": 2
+        },
+        {
+            "team": "team 5",
+            "value_1": 1,
+            "value_2": 2
+        },
+        {
+            "team": "team 6",
+            "value_1": 1,
+            "value_2": 2
+        }
+    ]
+}
